@@ -289,3 +289,6 @@ h4{
     margin-top: 10px;
     margin-left: 30%;
 }
+html{
+    scroll-behavior: smooth;
+}
